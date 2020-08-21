@@ -3,7 +3,7 @@ homepage: "https://getemails.com/"
 documentation: "https://docs.google.com/document/d/1SLHRuhmlCrKU9vWn_0qxaq4jUwLAXiNGMnXbNSSqm6Y/edit?usp=sharing"
 versions:
   # Latest version
-  - sha: 7113694a5ac34ec7dbd73af3aeeaa43a0a3a090e
+  - sha: 6d92f64f9a231946b980f8741479b81d431ebec8
     changeNotes: Template created and deployed
    
   # Older versions    

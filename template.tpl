@@ -31,7 +31,7 @@ ___TEMPLATE_PARAMETERS___
 
 [
   {
-	"help": "Please copy & paste Script from GetEmails Code Snippet.",
+    "help": "Please copy & paste Script from GetEmails Code Snippet.",
     "type": "TEXT",
     "name": "Script",
     "displayName": "Script",

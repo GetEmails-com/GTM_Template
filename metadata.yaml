@@ -2,7 +2,10 @@ name: "GetEmails"
 homepage: "https://getemails.com/"
 documentation: "https://docs.google.com/document/d/1SLHRuhmlCrKU9vWn_0qxaq4jUwLAXiNGMnXbNSSqm6Y/edit?usp=sharing"
 versions:
-  - sha: fe92190f54023a7f33b7347f05fb0357f696b458
-    changeNotes: Initial release
+  # Latest version
   - sha: eb1f8eb3dc1039df434781d3b2d49537d6400b04
     changeNotes: Template created and deployed
+   
+  # Older versions    
+  - sha: fe92190f54023a7f33b7347f05fb0357f696b458
+    changeNotes: Initial release

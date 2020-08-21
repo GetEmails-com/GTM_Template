@@ -41,11 +41,11 @@ ___TEMPLATE_PARAMETERS___
     "displayName": "Script",
     "simpleValueType": true,
     "lineCount": 6,
-	"valueValidators": [
+     "valueValidators": [
       {
         "type": "NON_EMPTY"
-      }]
-    }
+      }
+    ]
   }
 ]
 
